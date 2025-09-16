@@ -31,11 +31,14 @@ Focused on enterprise-grade security solutions, cryptographic implementations, a
 - Critical Skills Recognition - South African Government
 
 ### 🛡️ Certifications
-- Offensive Security: OSCP, OSCE, OSWP
 - EC-Council: CEH, ECIH
 - AWS Security Specialization
 - ITIL Foundation
 - Oracle Solaris Certified Systems Administrator
+
+### Professional Training
+- Offensive Security: OSCP, OSCE, OSWP
+- Defensive Security: United States, Department of Commerce 
 
 ### 🌟 Featured Projects
 
