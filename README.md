@@ -1,29 +1,79 @@
-﻿# AWS CloudHSM Root CA Implementation
+# Samson Oduor
 
-This repository contains implementation files for AWS CloudHSM with ACM Private CA integration.
+## Senior Security & Cryptography Engineer | AWS Cloud Security Specialist
 
-## Directory Structure
+Focused on enterprise-grade security solutions, cryptographic implementations, and cloud security architecture.
 
-### scripts/
-Shell scripts for CloudHSM operations (see individual scripts for details)
+### 🔒 Expertise
 
-### config/
-Configuration files for CloudHSM and CA setup
+#### Cloud Security & Cryptography
+- AWS KMS, CloudHSM, ACM, and Private Certificate Authority
+- Cryptographic Operations & Key Management
+- Cloud Security Architecture
+- Defense in Depth Implementation
 
-### docs/
-- [Implementation Guide](docs/IMPLEMENTATION_GUIDE.md)
-- [Troubleshooting Guide](docs/TROUBLESHOOTING.md)
+#### Security Operations & Incident Response
+- National CERT/CC Advisory Experience
+- Threat Intelligence & Analysis
+- SOC Operations & Management
+- Incident Response & Handling
 
-## Getting Started
+#### Infrastructure Security
+- DDoS Mitigation Strategies
+- Enterprise Security Architecture
+- Network Security & Hardening
+- Perimeter Defense Systems
 
-1. Review the Implementation Guide
-2. Set up your AWS environment
-3. Follow the step-by-step instructions in each script
+### 🏆 Achievements & Recognition
+- AWS All-Rounder Award (Q2 2025)
+- AWS Wise Guru Award (Q4 2024)
+- AWS Associate Speaker Certification
+- Critical Skills Recognition - South African Government
 
-## Security Note
+### 🛡️ Certifications
+- Offensive Security: OSCP, OSCE, OSWP
+- EC-Council: CEH, ECIH
+- AWS Security Specialization
+- ITIL Foundation
+- Oracle Solaris Certified Systems Administrator
 
-Ensure proper IAM permissions and security groups are configured before implementation.
+### 🌟 Featured Projects
 
-## Support
+#### Enterprise Security Tools
+- [KMS Latency Testing Tool](https://github.com/oduors/kms-latency-test)
+  * Enterprise KMS performance analysis
+  * Cryptographic operation benchmarking
+  * Security-focused implementation
 
-For issues and questions, please open a GitHub issue or refer to the Troubleshooting Guide.
+- [AWS KMS Key Import](https://github.com/oduors/AWS-KMS-Key-Import)
+  * RSA-3072/OAEP-SHA256 key material import
+  * Production deployment framework
+  * Security best practices
+
+- [CloudHSM Root CA](https://github.com/oduors/cloudhsm-ca)
+  * Hardware Security Module integration
+  * PKI infrastructure deployment
+  * Secure key operations
+
+### 🎯 Professional Focus
+- Enterprise Security Architecture
+- Cryptographic Implementation
+- Security Automation
+- Threat Mitigation
+- Performance Optimization
+
+### 🏢 Industry Experience
+- AWS Security & Cryptography
+- National Cybersecurity Operations
+- Enterprise Infrastructure Security
+- Security Compliance & Standards
+
+### 📚 Standards & Compliance
+- PCI-DSS
+- ISO 27001
+- GDPR
+- National Security Frameworks
+
+---
+
+_Focused on advancing security and cryptographic implementations in enterprise environments._
