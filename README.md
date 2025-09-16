@@ -63,7 +63,7 @@ Focused on enterprise-grade security solutions, cryptographic implementations, a
   * AWS Payment Cryptography service integration
   * Security practices and error handling framework
  
- - [KMS Encryption Behavior Comparison](https://github.com/oduors/kms-encryption-behavior-comparison)
+- [KMS Encryption Behavior Comparison](https://github.com/oduors/kms-encryption-behavior-comparison)
   * CLI vs SDK implementation analysis
   * Best practices documentation
   * Implementation differences guide
