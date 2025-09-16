@@ -63,6 +63,16 @@ Focused on enterprise-grade security solutions, cryptographic implementations, a
   * AWS Payment Cryptography service integration
   * Security practices and error handling framework
  
+ - [KMS Encryption Behavior Comparison](https://github.com/oduors/kms-encryption-behavior-comparison)
+  * CLI vs SDK implementation analysis
+  * Best practices documentation
+  * Implementation differences guide
+
+- [Network Vulnerability Scanner](https://github.com/oduors/network-vulnerability-scanner)
+  * Integrated nmap vulnerability scanning
+  * Network security assessment
+  * Comprehensive port analysis
+ 
 ### 🎯 Professional Focus
 - Enterprise Security Architecture
 - Cryptographic Implementation
