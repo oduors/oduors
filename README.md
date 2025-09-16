@@ -58,11 +58,11 @@ Focused on enterprise-grade security solutions, cryptographic implementations, a
   * PKI infrastructure deployment
   * Secure key operations
  
- - [AWS Payment Cryptography Guide](https://github.com/oduors/aws-payment-cryptography-guide)
+- [AWS Payment Cryptography Guide](https://github.com/oduors/aws-payment-cryptography-guide)
   * CVV2 generation and verification implementation
-  * Complete AWS Payment Cryptography service integration
-  * Production-ready security practices and error handling
-
+  * AWS Payment Cryptography service integration
+  * Security practices and error handling framework
+ 
 ### 🎯 Professional Focus
 - Enterprise Security Architecture
 - Cryptographic Implementation
