@@ -72,6 +72,11 @@ Focused on enterprise-grade security solutions, cryptographic implementations, a
   * Integrated nmap vulnerability scanning
   * Network security assessment
   * Comprehensive port analysis
+
+- [AWS Secrets Manager Multi-Region](https://github.com/oduors/aws-secrets-manager-multiregion)
+  * Multi-region secrets retrieval optimization
+  * Pagination and tag-based filtering implementation
+  * Performance benchmarking across regions (3.7s for 34 secrets)
  
 ### 🎯 Professional Focus
 - Enterprise Security Architecture
